@@ -361,7 +361,7 @@ body{
         border: none;  left: 87%; 
         width: 2.8125rem; height: 2.8125rem;
         background-color: transparent;
-        background-image: url('/babble/client/images/circle.png');
+        background-image: url('/client/images/circle.png');
         background-position: center;  
         background-size: 100% 100%; 
         align-self: center; padding: 0;
